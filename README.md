@@ -1,6 +1,6 @@
 # -Frequency-Dependent-Crosstalk-Cancellation-XTC-
 
-This study was completed as part of the final project for 3D Audio at NYU Steinhardt. 
+This study was completed as part of the final project for the 3D Audio course at NYU Steinhardt. 
 
 The study explores the implementation of Frequency Dependent Crosstalk Cancellation (XTC) for spatial audio
 using the Matrix Inversion method in Python. A simple non-frequency dependent system is 
